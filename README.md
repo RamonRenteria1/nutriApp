@@ -32,7 +32,7 @@ En resumen, los objetivos de una "nutriapp" se centran en simplificar, personali
 
 
 ## INTEGRANTES
-**RAMON EDUARDO RENTERIA RAMIREZ** 
+**RAMON EDUARDO RENTERIA RAMIREZ**. 
 ![Ramon Eduardo Renteria Foto](https://github.com/RamonRenteria1/mi-primerproyecto-prepa/blob/main/WhatsApp%20Image%202025-09-18%20at%209.52.13%20AM-convertido-a-150x150.jpeg?raw=true)
 
 **JESUS EDUARDO NOLASCO FLORES**.
